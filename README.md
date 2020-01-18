@@ -1,5 +1,7 @@
-# API Hotel
+# API de Peliculas 
 API de peliculas construidos con DJANGO.
+Se utilizo la api publica de: * [THEMOVIEDB](https://www.themoviedb.org/)
+
 
 - Construido con Django
 
@@ -14,6 +16,7 @@ API de peliculas construidos con DJANGO.
 
 ## Herramientas utilizadas en este proyecto.
 * [Django](https://www.djangoproject.com/)
+
 
 
 ## Empezando
