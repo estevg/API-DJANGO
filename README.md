@@ -1,5 +1,5 @@
 # API de Peliculas 
-API de peliculas construidos con DJANGO.
+API de peliculas construido con DJANGO.
 
 Se utilizo la api publica [THEMOVIEDB](https://www.themoviedb.org/)
 
