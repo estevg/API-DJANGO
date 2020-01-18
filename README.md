@@ -1,6 +1,7 @@
 # API de Peliculas 
 API de peliculas construidos con DJANGO.
-Se utilizo la api publica de: * [THEMOVIEDB](https://www.themoviedb.org/)
+
+Se utilizo la api publica [THEMOVIEDB](https://www.themoviedb.org/)
 
 
 - Construido con Django
